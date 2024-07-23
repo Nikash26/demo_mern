@@ -1,0 +1,83 @@
+body{
+    background-image:linear-gradient(to left,rgb(59, 187, 230),lightpink);
+}
+h1{
+    padding-top: 0.5cm;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:30px;
+}
+input{
+    width: 5.5cm;
+    border: none;
+    box-shadow: 0px 1px 0px black;
+   
+    border-bottom: 10px;
+
+}
+label,input{
+    font-size:20px;
+    margin: 10px;
+    padding :2px
+}
+input
+{
+    background-color: rgba(252, 251, 251, 0.014);
+    font-size: 15px;
+}
+.fa-facebook{
+    background-color: rgb(50, 50, 224);
+}
+.fa-google{
+    background-color:rgba(201, 30, 30, 0.774);
+}
+.fa-linkedin{
+    background-color: rgb(37, 37, 243);
+}
+.fa{
+    
+    border-radius: 50%;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    height: .4cm;
+    width: .4cm;
+} 
+button{
+    border-radius: 15px;
+    border: none;
+    width: 6cm;
+    height: 1cm;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-weight: bold;
+    background-image: linear-gradient(to left,rgb(27, 112, 141),rgb(216, 97, 115));
+}
+p{
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.Username,.pass{
+    position:relative ;
+    right: 1.8cm;
+}
+.forgot{
+    position: absolute;
+    left: 4.9cm;
+}
+.hell{
+    background-color: rgba(252, 251, 251, 0.541);
+    height: 14cm;
+    width: 10cm;
+    position: absolute;
+    top: 80px;
+    left: 37%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 15px rgba(0, 0, 0, 0.11);
+    
+
+}
